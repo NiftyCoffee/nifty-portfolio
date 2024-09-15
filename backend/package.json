@@ -7,6 +7,7 @@
   },
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.651.0",
@@ -18,4 +19,7 @@
     "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.4"
   }
+=======
+  "description": ""
+>>>>>>> 1e71bc24e532ba6c67e7194b3b829d3bd8e4d92b
 }
